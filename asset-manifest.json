@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/brie-baby-shower/static/css/main.d6db5770.css",
-    "main.js": "/brie-baby-shower/static/js/main.ee41d4fb.js",
-    "static/js/787.6edcbe31.chunk.js": "/brie-baby-shower/static/js/787.6edcbe31.chunk.js",
-    "static/media/HoneyPotCorners.png": "/brie-baby-shower/static/media/HoneyPotCorners.147d454f557173ddd643.png",
-    "static/media/baby-pooh-friends.png": "/brie-baby-shower/static/media/baby-pooh-friends.ad67da7124fb263bbc98.png",
-    "static/media/baby-piglet2.png": "/brie-baby-shower/static/media/baby-piglet2.6f62d2c14cc060b92b68.png",
-    "static/media/baby-pooh2.png": "/brie-baby-shower/static/media/baby-pooh2.cfde05bfb585b2f25c5c.png",
-    "static/media/babytigger2.gif": "/brie-baby-shower/static/media/babytigger2.8212167f779168ec0f96.gif",
-    "index.html": "/brie-baby-shower/index.html",
-    "main.d6db5770.css.map": "/brie-baby-shower/static/css/main.d6db5770.css.map",
-    "main.ee41d4fb.js.map": "/brie-baby-shower/static/js/main.ee41d4fb.js.map",
-    "787.6edcbe31.chunk.js.map": "/brie-baby-shower/static/js/787.6edcbe31.chunk.js.map"
+    "main.css": "./static/css/main.d6db5770.css",
+    "main.js": "./static/js/main.ee41d4fb.js",
+    "static/js/787.6edcbe31.chunk.js": "./static/js/787.6edcbe31.chunk.js",
+    "static/media/HoneyPotCorners.png": "./static/media/HoneyPotCorners.147d454f557173ddd643.png",
+    "static/media/baby-pooh-friends.png": "./static/media/baby-pooh-friends.ad67da7124fb263bbc98.png",
+    "static/media/baby-piglet2.png": "./static/media/baby-piglet2.6f62d2c14cc060b92b68.png",
+    "static/media/baby-pooh2.png": "./static/media/baby-pooh2.cfde05bfb585b2f25c5c.png",
+    "static/media/babytigger2.gif": "./static/media/babytigger2.8212167f779168ec0f96.gif",
+    "index.html": "./index.html",
+    "main.d6db5770.css.map": "./static/css/main.d6db5770.css.map",
+    "main.ee41d4fb.js.map": "./static/js/main.ee41d4fb.js.map",
+    "787.6edcbe31.chunk.js.map": "./static/js/787.6edcbe31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6db5770.css",
