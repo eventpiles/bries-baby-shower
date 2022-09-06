@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.2cd86028.css",
-    "main.js": "./static/js/main.b2e8a8b1.js",
+    "main.js": "./static/js/main.d7571a37.js",
     "static/js/787.6edcbe31.chunk.js": "./static/js/787.6edcbe31.chunk.js",
     "static/media/HoneyPotCorners.png": "./static/media/HoneyPotCorners.147d454f557173ddd643.png",
     "static/media/baby-pooh-friends.png": "./static/media/baby-pooh-friends.ad67da7124fb263bbc98.png",
@@ -11,11 +11,11 @@
     "static/media/babytigger2.gif": "./static/media/babytigger2.8212167f779168ec0f96.gif",
     "index.html": "./index.html",
     "main.2cd86028.css.map": "./static/css/main.2cd86028.css.map",
-    "main.b2e8a8b1.js.map": "./static/js/main.b2e8a8b1.js.map",
+    "main.d7571a37.js.map": "./static/js/main.d7571a37.js.map",
     "787.6edcbe31.chunk.js.map": "./static/js/787.6edcbe31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2cd86028.css",
-    "static/js/main.b2e8a8b1.js"
+    "static/js/main.d7571a37.js"
   ]
 }
